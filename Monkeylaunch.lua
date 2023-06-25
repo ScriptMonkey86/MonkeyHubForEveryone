@@ -7,6 +7,7 @@
         \/     \/         |__|                \/            \/     \/    \/\/           \/       \/ 
 Thanks, everyone! CREDITS: EdgeIY, CMD-X, FilteringEnabled, GhostPlayer352, rblxscriptsnet, debug420, AlexR32, AZYsGithub , xtebite#6500, Aim, Cli, rang#1234, Riptxde, rouxhaver , ScriptMonkey86
 ]]--
+
 do
 	local v0 = string.char;
 	local v1 = string.byte;

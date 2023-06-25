@@ -1,13 +1,3 @@
---[[
-  _________            .__        __     _____                 __                  ______   ________
- /   _____/ ___________|__|______/  |_  /     \   ____   ____ |  | __ ____ ___.__./  __  \ /  _____/
- \_____  \_/ ___\_  __ \  \____ \   __\/  \ /  \ /  _ \ /    \|  |/ // __ <   |  |>      </   __  \ 
- /        \  \___|  | \/  |  |_> >  | /    Y    (  <_> )   |  \    <\  ___/\___  /   --   \  |__\  \
-/_______  /\___  >__|  |__|   __/|__| \____|__  /\____/|___|  /__|_ \\___  > ____\______  /\_____  /
-        \/     \/         |__|                \/            \/     \/    \/\/           \/       \/ 
-Thanks, everyone! CREDITS: EdgeIY, CMD-X, FilteringEnabled, GhostPlayer352, rblxscriptsnet, debug420, AlexR32, AZYsGithub , xtebite#6500, Aim, Cli, rang#1234, Riptxde, rouxhaver , ScriptMonkey86
-]]--
-
 do
 	local v0 = string.char;
 	local v1 = string.byte;
